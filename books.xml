@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="BooksXSL.xsl"?>
+<books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="books.xsd">  
+    <book>
+        <title>Then there were none</title>
+        <author>Agatha christie</author>
+        <genre>Mystery</genre>
+        <price>30</price>
+    </book>
+    <book>
+        <title>Percy Jackson : The Last Olympian</title>
+        <author>Rick Riordan</author>
+        <genre>Fantasy</genre>
+        <price>10</price>
+    </book>
+    <book>
+        <title>Theory of Everything</title>
+        <author>Stephen Hawking</author>
+        <genre>Science Fiction</genre>
+        <price>26</price>
+    </book>
+    <book>
+        <title>One of us is lying</title>
+        <author>Karen McManus</author>
+        <genre>Mystery</genre>
+        <price>27</price>
+    </book>
+    <book>
+        <title>The Three body Problem</title>
+        <author>Cixin Liu</author>
+        <genre>Non-Fiction</genre>
+        <price>12</price>
+    </book>
+</books>
